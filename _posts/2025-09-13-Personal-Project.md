@@ -1,17 +1,14 @@
-Certainly! I will create an engaging introduction for your Quant-Analysis-example GitHub project. The main contents of the report are as follows:
-
-- **Project Overview**: Introduction to the Quant-Analysis-example project and its capabilities.  
-- **Key Features**: Highlighting the main features of the project, including back-testing engine, technical indicators, and AI integration.  
-- **Technology Stack**: Listing the technologies and tools used in the project.  
-- **Getting Started**: Providing installation and setup instructions for users.  
-- **Usage Examples**: Demonstrating how to use the project with code snippets.  
-- **Project Structure**: Explaining the organization of the project repository.  
-- **Contributing**: Guidelines for contributing to the project.  
-- **License**: Information about the project's licensing.  
-- **Contact**: How to get in touch with the project maintainer.  
-
-Then, I will now begin writing the main body of the report.
--------
+---
+layout: post
+title: Know more about my current status!
+subtitle: My Lastest CV
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Chang Ye
+---
 # Quant-Analysis-example: Advanced Quantitative Trading Framework
 
 ## 🚀 Project Overview
@@ -195,8 +192,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Feel free to reach out if you have any questions, suggestions, or collaboration ideas! I'm always interested in discussing quantitative finance, machine learning applications in trading, or potential research collaborations.
 
----
-
-⭐ **If you find this project useful, please consider giving it a star on GitHub!** This helps others discover the project and encourages further development.
-
-*This project is for educational and research purposes only. Past performance is not indicative of future results. Trading financial instruments involves risk and may not be suitable for all investors.*
